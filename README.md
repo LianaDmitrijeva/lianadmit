@@ -1,1 +1,1 @@
-https://lianadmitrijeva.github.io/lianadmit/
+https://lianadmitrijeva.github.io/lianadmit/index.html

@@ -1,9 +1,28 @@
+/*************** Fonts *****************/
+@font-face{
+    font-family: ChakraPetch;
+    src: url("fonts/ChakraPetch-Regular.ttf");
+  }
+@font-face{
+    font-family: Rajdhani;
+    src: url("fonts/Rajdhani-Regular.ttf");
+}
+/************Main content***************/
+html{
+    scroll-behavior: smooth;
+}
 body{
     background-color: #1b1b2b;
     margin: 0;
 }
 h1{
     color: #ffffff;
+    font-family: Rajdhani;
+    text-shadow: 1px 2px #000000;
+}
+.main_content{
+    margin-left: 20%;
+    margin-right: 20%;
 }
 /*****************Navbar****************/
 nav{
@@ -16,8 +35,12 @@ nav div{
     list-style-type: none; 
 }
 nav div a{
+    text-shadow: 1px 2px #000000;
+    font-weight: bold;
+    font-family: Rajdhani;
     display: inline-block;
     color: white;
+    font-size: 20px;
     text-align: center;
     padding: 16px 24px;
     text-decoration: none;

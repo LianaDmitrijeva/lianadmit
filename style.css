@@ -1,11 +1,11 @@
 /*************** Fonts *****************/
 @font-face{
     font-family: ChakraPetch;
-    src: url("fonts/ChakraPetch-Regular.ttf");
+    src: url("ChakraPetch-Regular.ttf");
   }
 @font-face{
     font-family: Rajdhani;
-    src: url("fonts/Rajdhani-Regular.ttf");
+    src: url("Rajdhani-Regular.ttf");
 }
 /************Main content***************/
 html{
